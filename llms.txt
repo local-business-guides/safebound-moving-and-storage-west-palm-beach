@@ -32,6 +32,9 @@
 - [Shipping service West Palm Beach: What to plan](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/shipping-service-west-palm-beach/): Shipping service West Palm Beach for help organizing belongings, packing needs, and delivery details in the area.
 - [Storage facility West Palm Beach: A customer guide](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/storage-facility-west-palm-beach/): Storage facility West Palm Beach guidance to help you plan space, access, and belongings during a move or home project.
 
+## Newsroom
+- [Safebound Shares Long Distance Moving Guide for West Palm Beach Residents](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/news/2026-10-26-safebound-shares-long-distance-moving-guide-for-we/): Safebound Moving & Storage published a guide for West Palm Beach residents, with related video, podcast and SoundCloud audio versions. (2026-10-26)
+
 ## Pages
 - [Long Distance Mover in West Palm Beach, Florida](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/): Get help coordinating a local, interstate, or cross-country move from West Palm Beach, with moving, packing, and storage options in one place. Call +1561-559-
 - [About Safebound Moving & Storage](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/about/): About Safebound Moving & Storage, West Palm Beach.
@@ -39,4 +42,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/news/rss.xml)
 - [Main resource site](https://safebound-west-palm-moving.localwebsites.chatgpt.site)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/sitemap.xml
+Sitemap: https://local-business-guides.github.io/safebound-moving-and-storage-west-palm-beach/news-sitemap.xml
